@@ -89,7 +89,7 @@ export const Hero = () => {
           <div className="flex items-center justify-center gap-3 mb-6">
             <Cloud className="w-10 h-10 text-primary" />
             <span className="text-sm font-mono uppercase tracking-widest text-muted-foreground">
-              RunRateHost · Cloud Cost Intelligence
+              CloudCompare · Cloud Cost Intelligence
             </span>
           </div>
 
@@ -102,7 +102,7 @@ export const Hero = () => {
           </h1>
 
           <p className="text-lg sm:text-xl text-muted-foreground max-w-3xl mx-auto mb-8 leading-relaxed">
-            RunRateHost benchmarks AWS, Google Cloud, Azure, Oracle, and IBM side-by-side —
+            CloudCompare benchmarks AWS, Google Cloud, Azure, Oracle, and IBM side-by-side —
             uncover free tiers, hidden fees, and the fastest path to a lower monthly run-rate.
           </p>
 

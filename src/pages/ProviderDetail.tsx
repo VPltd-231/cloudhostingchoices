@@ -77,7 +77,7 @@ const ProviderDetail = () => {
       <SeoHead
         route={`/provider/${provider.id}`}
         titleSuffix={provider.name}
-        description={`${provider.name} free tier, requirements, strengths and limitations — analysed by RunRateHost.`}
+        description={`${provider.name} free tier, requirements, strengths and limitations — analysed by CloudCompare.`}
       />
       <AnimatedBackground />
       
