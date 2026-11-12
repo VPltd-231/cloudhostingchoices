@@ -68,8 +68,8 @@ export const Logo3D: FC = () => {
           }}
         >
           <span className="text-xl font-bold h-7 flex items-center">
-            <span className="gradient-text">RunRate</span>
-            <span className="text-foreground">Host</span>
+            <span className="gradient-text">Cloud</span>
+            <span className="text-foreground">Compare</span>
           </span>
           <span className="text-xl font-bold h-7 flex items-center">
             <span className="text-primary">☁️</span>

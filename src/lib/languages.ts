@@ -21,7 +21,7 @@ export const languages: LanguageMeta[] = [
     label: 'English',
     country: 'United Kingdom',
     flag: '🇬🇧',
-    title: 'RunRateHost | Save On Your Cloud Hosting Infrastructure',
+    title: 'CloudCompare | Save On Your Cloud Hosting Infrastructure',
     description:
       'Compare AWS, Google Cloud, Azure, Oracle and IBM Cloud side-by-side. Free tiers, hidden fees and real cost breakdowns.',
   },
@@ -31,7 +31,7 @@ export const languages: LanguageMeta[] = [
     label: 'Deutsch',
     country: 'Deutschland',
     flag: '🇩🇪',
-    title: 'RunRateHost | Cloud-Hosting-Kosten senken',
+    title: 'CloudCompare | Cloud-Hosting-Kosten senken',
     description:
       'AWS, Google Cloud, Azure, Oracle und IBM Cloud im direkten Vergleich: Gratis-Kontingente, versteckte Gebühren und echte Kostenanalysen.',
   },
@@ -41,7 +41,7 @@ export const languages: LanguageMeta[] = [
     label: 'Français',
     country: 'France',
     flag: '🇫🇷',
-    title: "RunRateHost | Réduisez le coût de votre hébergement cloud",
+    title: "CloudCompare | Réduisez le coût de votre hébergement cloud",
     description:
       'Comparez AWS, Google Cloud, Azure, Oracle et IBM Cloud : offres gratuites, frais cachés et analyses de coûts réelles.',
   },
@@ -51,7 +51,7 @@ export const languages: LanguageMeta[] = [
     label: 'Español',
     country: 'España',
     flag: '🇪🇸',
-    title: 'RunRateHost | Ahorra en tu infraestructura cloud',
+    title: 'CloudCompare | Ahorra en tu infraestructura cloud',
     description:
       'Compara AWS, Google Cloud, Azure, Oracle e IBM Cloud: capas gratuitas, costes ocultos y desgloses de precios reales.',
   },
@@ -61,7 +61,7 @@ export const languages: LanguageMeta[] = [
     label: 'Italiano',
     country: 'Italia',
     flag: '🇮🇹',
-    title: 'RunRateHost | Risparmia sul cloud hosting',
+    title: 'CloudCompare | Risparmia sul cloud hosting',
     description:
       'Confronta AWS, Google Cloud, Azure, Oracle e IBM Cloud: piani gratuiti, costi nascosti e analisi reali dei prezzi.',
   },
@@ -71,7 +71,7 @@ export const languages: LanguageMeta[] = [
     label: 'Nederlands',
     country: 'Nederland',
     flag: '🇳🇱',
-    title: 'RunRateHost | Bespaar op cloudhosting',
+    title: 'CloudCompare | Bespaar op cloudhosting',
     description:
       'Vergelijk AWS, Google Cloud, Azure, Oracle en IBM Cloud: gratis niveaus, verborgen kosten en echte kostenanalyses.',
   },
@@ -81,7 +81,7 @@ export const languages: LanguageMeta[] = [
     label: 'Polski',
     country: 'Polska',
     flag: '🇵🇱',
-    title: 'RunRateHost | Oszczędzaj na hostingu w chmurze',
+    title: 'CloudCompare | Oszczędzaj na hostingu w chmurze',
     description:
       'Porównaj AWS, Google Cloud, Azure, Oracle i IBM Cloud: darmowe pakiety, ukryte opłaty i realne koszty.',
   },
@@ -91,7 +91,7 @@ export const languages: LanguageMeta[] = [
     label: 'Português',
     country: 'Portugal',
     flag: '🇵🇹',
-    title: 'RunRateHost | Poupe na sua infraestrutura cloud',
+    title: 'CloudCompare | Poupe na sua infraestrutura cloud',
     description:
       'Compare AWS, Google Cloud, Azure, Oracle e IBM Cloud: níveis gratuitos, custos ocultos e análises de preços reais.',
   },
@@ -101,7 +101,7 @@ export const languages: LanguageMeta[] = [
     label: 'Svenska',
     country: 'Sverige',
     flag: '🇸🇪',
-    title: 'RunRateHost | Spara på molnhosting',
+    title: 'CloudCompare | Spara på molnhosting',
     description:
       'Jämför AWS, Google Cloud, Azure, Oracle och IBM Cloud: gratisnivåer, dolda avgifter och verkliga kostnader.',
   },
@@ -111,7 +111,7 @@ export const languages: LanguageMeta[] = [
     label: 'Dansk',
     country: 'Danmark',
     flag: '🇩🇰',
-    title: 'RunRateHost | Spar på cloud hosting',
+    title: 'CloudCompare | Spar på cloud hosting',
     description:
       'Sammenlign AWS, Google Cloud, Azure, Oracle og IBM Cloud: gratis niveauer, skjulte gebyrer og reelle omkostninger.',
   },
@@ -121,7 +121,7 @@ export const languages: LanguageMeta[] = [
     label: 'Suomi',
     country: 'Suomi',
     flag: '🇫🇮',
-    title: 'RunRateHost | Säästä pilvipalvelun kustannuksissa',
+    title: 'CloudCompare | Säästä pilvipalvelun kustannuksissa',
     description:
       'Vertaa AWS:ää, Google Cloudia, Azurea, Oraclea ja IBM Cloudia: ilmaistasot, piilokulut ja todelliset kustannukset.',
   },
@@ -131,7 +131,7 @@ export const languages: LanguageMeta[] = [
     label: 'Čeština',
     country: 'Česko',
     flag: '🇨🇿',
-    title: 'RunRateHost | Ušetřete na cloudovém hostingu',
+    title: 'CloudCompare | Ušetřete na cloudovém hostingu',
     description:
       'Porovnejte AWS, Google Cloud, Azure, Oracle a IBM Cloud: bezplatné úrovně, skryté poplatky a reálné náklady.',
   },
@@ -141,7 +141,7 @@ export const languages: LanguageMeta[] = [
     label: 'Română',
     country: 'România',
     flag: '🇷🇴',
-    title: 'RunRateHost | Reduceți costurile de găzduire cloud',
+    title: 'CloudCompare | Reduceți costurile de găzduire cloud',
     description:
       'Comparați AWS, Google Cloud, Azure, Oracle și IBM Cloud: niveluri gratuite, taxe ascunse și costuri reale.',
   },
